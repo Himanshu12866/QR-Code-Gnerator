@@ -20,3 +20,7 @@ qrInput.addEventListener("keyup", () => {
         wrapper.classList.remove("active");
     }
 });
+
+
+
+
